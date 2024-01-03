@@ -1,3 +1,4 @@
+// This is the list of all the countries.
 const countryList = {
     AED: "AE",
     AFN: "AF",
